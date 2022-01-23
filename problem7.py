@@ -1,4 +1,3 @@
-from nntplib import decode_header
 import default_test
 import my_input
 
